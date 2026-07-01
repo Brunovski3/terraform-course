@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+.terraform/
+*.tfstate
+*.tfstate.backup
+plan.out
+.terraform.lock.hcl
