@@ -1,4 +1,1 @@
 # Updates
-# Kubernetes
-# Locals
-# README
