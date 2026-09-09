@@ -1,2 +1,1 @@
 # Storage Config
-# Second version
